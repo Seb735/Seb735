@@ -1,6 +1,3 @@
-![Cover](https://github.com/Seb735/Seb735/blob/main/img/cover.webp)
-<h1 align='center'>DUCLUT Sébastien</h1>
-<h3 align='center'>Développeur Fullstack </h3>
 
 📫 How to reach me:  
 - <a href="https://www.linkedin.com/in/sebastien-duclut/" ><img height="20" width="20" src="https://github.com/Seb735/Seb735/blob/main/img/linkedin.svg" /> @sebastien-duclut</a>  
