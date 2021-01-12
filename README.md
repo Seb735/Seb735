@@ -1,6 +1,7 @@
 # Sébastien DUCLUT
 
-## <span style="color:gray">  Développeur Fullstacks, Spécialisé en Symfony </span>
+## Développeur Fullstacks, Spécialisé en Symfony
+
 
 
 <!--
