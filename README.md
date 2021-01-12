@@ -1,11 +1,12 @@
-<h1>Sébastien DUCLUT</h1>
-
-## Développeur Fullstacks, Spécialisé en Symfony
-
+<h1 align='center'>DUCLUT Sébastien</h1>
+<h3 align='center'>Développeur Fullstack </h3>
 
 
 <!--
 **Seb735/Seb735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+card of stat github (https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seb735&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
