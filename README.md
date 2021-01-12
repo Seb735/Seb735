@@ -1,4 +1,4 @@
-# Sébastien DUCLUT
+<h1 style="text-align: center;">Sébastien DUCLUT</h1>
 
 ## Développeur Fullstacks, Spécialisé en Symfony
 
