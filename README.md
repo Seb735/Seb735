@@ -1,7 +1,6 @@
 <h1 align='center'>DUCLUT Sébastien</h1>
 <h3 align='center'>Développeur Fullstack </h3>
 
-
 <!--
 **Seb735/Seb735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
