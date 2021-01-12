@@ -1,4 +1,4 @@
-![cover](https://github.com/Seb735/Seb735/blob/main/img/cover.webp)
+![Cover](https://github.com/Seb735/Seb735/blob/main/img/cover.webp)
 <h1 align='center'>DUCLUT Sébastien</h1>
 <h3 align='center'>Développeur Fullstack </h3>
 
