@@ -1,6 +1,11 @@
 <h1 align='center'>DUCLUT Sébastien</h1>
 <h3 align='center'>Développeur Fullstack </h3>
 
+<img height="20" width="20" src="https://github.com/Seb735/Seb735/blob/main/img/linkedin.svg" /> <a href="https://www.linkedin.com/in/sebastien-duclut/">@sebastien-duclut</a><br>
+<img height="20" width="20" src="https://github.com/Seb735/Seb735/blob/main/img/twitter.svg" /> <a href="https://twitter.com/DuclutS">@DuclutS</a>
+
+-----------------
+###### _Icônes conçues par <a href="https://www.flaticon.com/fr/auteurs/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/fr/" title="Flaticon">www.flaticon.com</a>_
 <!--
 **Seb735/Seb735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
