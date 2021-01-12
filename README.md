@@ -1,8 +1,9 @@
 <h1 align='center'>DUCLUT Sébastien</h1>
 <h3 align='center'>Développeur Fullstack </h3>
 
-<a href="https://www.linkedin.com/in/sebastien-duclut/" ><img height="20" width="20" src="https://github.com/Seb735/Seb735/blob/main/img/linkedin.svg" />@sebastien-duclut</a><br>
-<a href="https://twitter.com/DuclutS"><img height="20" width="20" src="https://github.com/Seb735/Seb735/blob/main/img/twitter.svg" /> @DuclutS</a>
+📫 How to reach me:<br>
+- <a href="https://www.linkedin.com/in/sebastien-duclut/" ><img height="20" width="20" src="https://github.com/Seb735/Seb735/blob/main/img/linkedin.svg" /> @sebastien-duclut</a><br>
+- <a href="https://twitter.com/DuclutS"><img height="20" width="20" src="https://github.com/Seb735/Seb735/blob/main/img/twitter.svg" /> @DuclutS</a>
 
 -----------------
 ###### _Icônes conçues par <a href="https://www.flaticon.com/fr/auteurs/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/fr/" title="Flaticon">www.flaticon.com</a>_
